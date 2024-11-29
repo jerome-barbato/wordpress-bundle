@@ -38,7 +38,6 @@
     "johnpbloch/wordpress-core": "^5.0|^6.0",
     "ifsnop/mysqldump-php":"^2.0",
     "dflydev/dot-access-data":"^3.0",
-    "enshrined/svg-sanitize": "^0.18",
     "intervention/image": "^3.4.0",
     "kornrunner/blurhash": "^1.2.2"
   },
