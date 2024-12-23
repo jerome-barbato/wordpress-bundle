@@ -18,7 +18,7 @@ return RectorConfig::configure()
     //->withPhpSets()
     //->withSymfonyContainerXml(__DIR__ . '/var/cache/dev/App_KernelDevDebugContainer.xml')
     ->withSets([
-        //SymfonySetList::SYMFONY_60,
+        SymfonySetList::SYMFONY_60,
         //SymfonySetList::SYMFONY_61,
         //SymfonySetList::SYMFONY_62,
         //SymfonySetList::SYMFONY_63,
